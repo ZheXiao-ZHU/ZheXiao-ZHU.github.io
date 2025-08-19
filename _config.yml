@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+s
 # Site Settings
 title                    : "Zhexiao Zhu"
 description              : ""
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhexiao Zhu \n朱哲枭"
   avatar           : "images/me.png"
-  bio              : "NUAA"
-  location         : "Nanjing, China"
+  bio              : "Nanjing University of Aeronautics and Astronautics"
+  location         : "Nanjing, P.R.China"
   employer         :
   pubmed           : 
   googlescholar    : 

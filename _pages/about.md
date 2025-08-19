@@ -40,6 +40,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 📝 Patent 
+
+Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025). [A control system and control method for oil abrasive grain enrichment based on ultrasonic drive](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202510944065.X]. China National Intellectual Property Administration. (Acceptance)
+Lu, X., Zhu, Z., Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025, April 21). A sound controlled oil abrasive enrichment chip, LIBS detection system and method [Chinese patent CN202510500111.7]. China National Intellectual Property Administration. (Acceptance)
+
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,5 +59,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Work Experience & Cooperation
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

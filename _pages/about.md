@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 📝 Patent 
+# 📝 Patents 
 
 Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025). [A control system and control method for oil abrasive grain enrichment based on ultrasonic drive](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202510944065.X]. China National Intellectual Property Administration. (Acceptance)
 

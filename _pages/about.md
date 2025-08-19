@@ -46,8 +46,11 @@ Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025). [A control sy
 
 Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025).[ A sound controlled oil abrasive enrichment chip, LIBS detection system and method](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202510500111.7]. China National Intellectual Property Administration. (Acceptance)
 
-**Zhu, Z.** Qi, X., Li, Z., Yang, H., Wang, Z., & Han, B. (2023). [A kind of curved inner surface machining system](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202310132139.0]. China National Intellectual Property Administration. (Authorize)
+**Zhu, Z.**, Qi, X., Li, Z., Yang, H., Wang, Z., & Han, B. (2023). [A kind of curved inner surface machining system](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202310132139.0]. China National Intellectual Property Administration. (Authorize)
 
+**Zhu, Z.**. (2023). [An integrated single sampling tube for nucleic acid pharyngeal swabs](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202210979166.7]. China National Intellectual Property Administration. (Authorize)
+
+**Zhu, Z.**. (2022). [An embedded hydraulic power universal joint and its driving method](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202111236047.4]. China National Intellectual Property Administration. (Authorize)
 
 
 

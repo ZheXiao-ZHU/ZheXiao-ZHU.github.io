@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhexiao Zhu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""
 repository               : "ZheXiao-ZHU/ZheXiao-ZHU.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhexiao Zhu"
+  name             : "Zhexiao Zhu \n朱哲枭"
   avatar           : "images/me.png"
   bio              : "NUAA"
   location         : "Nanjing, China"

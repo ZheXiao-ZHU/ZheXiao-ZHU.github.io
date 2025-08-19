@@ -8,7 +8,10 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-
+    
+  - title: "Patent"
+    url: "/#-Patent"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 

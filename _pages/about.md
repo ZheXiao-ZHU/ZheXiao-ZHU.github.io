@@ -43,7 +43,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 # 📝 Patent 
 
 Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025). [A control system and control method for oil abrasive grain enrichment based on ultrasonic drive](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202510944065.X]. China National Intellectual Property Administration. (Acceptance)
-Lu, X., Zhu, Z., Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025, April 21). A sound controlled oil abrasive enrichment chip, LIBS detection system and method [Chinese patent CN202510500111.7]. China National Intellectual Property Administration. (Acceptance)
+
+Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025).[ A sound controlled oil abrasive enrichment chip, LIBS detection system and method](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202510500111.7]. China National Intellectual Property Administration. (Acceptance)
+
+**Zhu, Z.** Qi, X., Li, Z., Yang, H., Wang, Z., & Han, B. (2023). [A kind of curved inner surface machining system](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202310132139.0]. China National Intellectual Property Administration. (Authorize)
+
+
 
 
 

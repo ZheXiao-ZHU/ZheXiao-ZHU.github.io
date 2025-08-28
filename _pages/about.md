@@ -42,15 +42,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 📝 Patents 
 
-Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025). [A control system and control method for oil abrasive grain enrichment based on ultrasonic drive](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202510944065.X]. China National Intellectual Property Administration. (Acceptance)
+Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025). [A control system and control method for oil abrasive grain enrichment based on ultrasonic drive](https://github.com/ZheXiao-ZHU/Zhexiao-ZHU-CV-data-base/blob/main/%E5%8F%97%E7%90%86%E9%80%9A%E7%9F%A5%E4%B9%A6_202510944065X.pdf) [Chinese patent CN202510944065.X]. China National Intellectual Property Administration. (Acceptance)
 
-Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025).[ A sound controlled oil abrasive enrichment chip, LIBS detection system and method](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202510500111.7]. China National Intellectual Property Administration. (Acceptance)
+Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025).[ A sound controlled oil abrasive enrichment chip, LIBS detection system and method](https://github.com/ZheXiao-ZHU/Zhexiao-ZHU-CV-data-base/blob/main/CN120445787A.PDF) [Chinese patent CN202510500111.7]. China National Intellectual Property Administration. (Acceptance)
 
-**Zhu, Z.**, Qi, X., Li, Z., Yang, H., Wang, Z., & Han, B. (2023). [A kind of curved inner surface machining system](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202310132139.0]. China National Intellectual Property Administration. (Authorize)
+**Zhu, Z.**, Qi, X., Li, Z., Yang, H., Wang, Z., & Han, B. (2023). [A kind of curved inner surface machining system](https://github.com/ZheXiao-ZHU/Zhexiao-ZHU-CV-data-base/blob/main/CN115945705B.PDF) [Chinese patent CN202310132139.0]. China National Intellectual Property Administration. (Authorize)
 
-**Zhu, Z.**. (2023). [An integrated single sampling tube for nucleic acid pharyngeal swabs](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202210979166.7]. China National Intellectual Property Administration. (Authorize)
+**Zhu, Z.**. (2023). [An integrated single sampling tube for nucleic acid pharyngeal swabs](https://github.com/ZheXiao-ZHU/Zhexiao-ZHU-CV-data-base/blob/main/CN115305178A.PDF) [Chinese patent CN202210979166.7]. China National Intellectual Property Administration. (Authorize)
 
-**Zhu, Z.**. (2022). [An embedded hydraulic power universal joint and its driving method](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pd) [Chinese patent CN202111236047.4]. China National Intellectual Property Administration. (Authorize)
+**Zhu, Z.**. (2022). [An embedded hydraulic power universal joint and its driving method](https://github.com/ZheXiao-ZHU/Zhexiao-ZHU-CV-data-base/blob/main/CN113847356B.PDF) [Chinese patent CN202111236047.4]. China National Intellectual Property Administration. (Authorize)
 
 
 

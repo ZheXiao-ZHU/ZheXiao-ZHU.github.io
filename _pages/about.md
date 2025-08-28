@@ -60,8 +60,8 @@ Lu, X., **Zhu, Z.**, Yao, R., Wei, Y., Zhao, B., & Cao, L. (2025).[ A sound cont
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2020.09 - 2025.06*,Bachelor of Mechanical Design, Manufacturing and Automation, Anhui Polytechnic University, Wuhu, P.R.China.
+- *2025.09 - 2027.04 (now)*, Master of Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing, P.R.China.
+- *2020.09 - 2025.06*, Bachelor of Mechanical Design, Manufacturing and Automation, Anhui Polytechnic University, Wuhu, P.R.China.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
